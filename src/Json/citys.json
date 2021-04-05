@@ -1,0 +1,90 @@
+[
+    {
+        "cityChinese" : "臺北市",
+        "cityEnglish" : "Taipei"
+    },
+    {
+        "cityChinese" : "新北市",
+        "cityEnglish" : "NewTaipei"
+    },
+    {
+        "cityChinese" : "桃園市",
+        "cityEnglish" : "Taoyuan"
+    },
+    {
+        "cityChinese" : "臺中市",
+        "cityEnglish" : "Taichung"
+    },
+    {
+        "cityChinese" : "臺南市",
+        "cityEnglish" : "Tainan"
+    },
+    {
+        "cityChinese" : "高雄市",
+        "cityEnglish" : "Kaohsiung"
+    },
+    {
+        "cityChinese" : "基隆市",
+        "cityEnglish" : "Keelung"
+    },
+    {
+        "cityChinese" : "新竹市",
+        "cityEnglish" : "Hsinchu"
+    },
+    {
+        "cityChinese" : "新竹縣",
+        "cityEnglish" : "HsinchuCounty"
+    },
+    {
+        "cityChinese" : "苗栗縣",
+        "cityEnglish" : "MiaoliCounty"
+    },
+    {
+        "cityChinese" : "彰化縣",
+        "cityEnglish" : "ChanghuaCounty"
+    },
+    {
+        "cityChinese" : "南投縣",
+        "cityEnglish" : "NantouCounty"
+    },
+    {
+        "cityChinese" : "雲林縣",
+        "cityEnglish" : "YunlinCounty"
+    },
+    {
+        "cityChinese" : "嘉義縣",
+        "cityEnglish" : "ChiayiCounty"
+    },
+    {
+        "cityChinese" : "嘉義市",
+        "cityEnglish" : "Chiayi"
+    },
+    {
+        "cityChinese" : "屏東縣",
+        "cityEnglish" : "PingtungCounty"
+    },
+    {
+        "cityChinese" : "宜蘭縣",
+        "cityEnglish" : "YilanCounty"
+    },
+    {
+        "cityChinese" : "花蓮縣",
+        "cityEnglish" : "HualienCounty"
+    },
+    {
+        "cityChinese" : "臺東縣",
+        "cityEnglish" : "TaitungCounty"
+    },
+    {
+        "cityChinese" : "金門縣",
+        "cityEnglish" : "KinmenCounty"
+    },
+    {
+        "cityChinese" : "澎湖縣",
+        "cityEnglish" : "PenghuCounty"
+    },
+    {
+        "cityChinese" : "連江縣",
+        "cityEnglish" : "LienchiangCounty"
+    }
+]
