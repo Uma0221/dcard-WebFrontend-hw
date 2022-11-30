@@ -1,12 +1,14 @@
 {
-  "name": "hw",
+  "name": "dcard-webfrontend-hw",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://uma0221.github.io/dcard-webfrontend-hw",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.1",
     "axios": "^0.21.1",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-responsive-masonry": "^2.1.2",
@@ -18,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
