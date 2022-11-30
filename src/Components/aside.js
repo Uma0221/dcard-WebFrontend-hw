@@ -8,7 +8,7 @@ function Aside({open, setOpen}) {
             <ul>
                 {citys.map((city) => (
                     <li>
-                        <Link onClick={()=>setOpen(!open)} className="city_box" to={`/scenicSpot/${city.cityEnglish}`} city={city.cityEnglish}>
+                        <Link onClick={()=>setOpen(!open)} className="city_box" to={`/dcard-webfrontend-hw/scenicSpot/${city.cityEnglish}`} city={city.cityEnglish}>
                             <div className="city">{city.cityChinese}</div>
                         </Link>
                     </li>

@@ -15,8 +15,8 @@ function Routes() {
       <StateContext.Provider value={state}>
         <Router>
           <Switch>
-              <Route exact path="/scenicSpot" component={scenicScreen}/>
-              <Route exact path="/scenicSpot/:city" component={cityScenicScreen}/>
+              <Route exact path="/dcard-webfrontend-hw/scenicSpot" component={scenicScreen}/>
+              <Route exact path="/dcard-webfrontend-hw/scenicSpot/:city" component={cityScenicScreen}/>
           </Switch>
         </Router>
       </StateContext.Provider>

@@ -5,7 +5,7 @@ function Header({open, setOpen}) {
         <header className="header">
             <div className="brand">
                 <button className="menu" onClick={()=>setOpen(!open)}>☰</button>
-                <Link className="caption" to="/scenicSpot">交通部觀光景點</Link>
+                <Link className="caption" to="/dcard-webfrontend-hw/scenicSpot">交通部觀光景點</Link>
             </div>
         </header>
     );
